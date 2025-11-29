@@ -1,0 +1,5 @@
+{
+  "name": "AI 健身搭子",
+  "description": "你的 AI 健身好搭档。上传训练视频，即可获得即时、友好且专业的动作分析、评分和改进建议。",
+  "requestFramePermissions": []
+}
